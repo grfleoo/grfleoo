@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRsMGwxOXd4amowNm4xeHpzN2l1MmVtMTN2ZDV4NjV3NjIwMmRnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="300"/>
 </div>
 
 <h1 align="center">Olá! Eu sou o Leonardo Gimenes 👋</h1>
