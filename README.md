@@ -15,7 +15,7 @@
 
 ---
 
-👨‍💻 Sobre mim
+### 👨‍💻 Sobre mim
 
 - 🎯 Focado em desenvolvimento **Back-end**
 - 🐍 Estudando **Python** e **HTML/CSS**
@@ -24,7 +24,7 @@
 
 ---
 
-🛠️ Tecnologias que estou aprendendo
+### 🛠️ Tecnologias que estou aprendendo
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -34,7 +34,7 @@
 
 ---
 
-📊 Minhas estatísticas no GitHub
+### 📊 Minhas estatísticas no GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grfleoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -43,7 +43,7 @@
 
 ---
 
-🐍 Minha contribuição em forma de cobrinha
+### 🐍 Minha contribuição em forma de cobrinha
 
 <div align="center">
   <picture>
