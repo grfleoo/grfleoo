@@ -1,16 +1,54 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</div>
 
-<!--
-**grfleoo/grfleoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Olá! Eu sou o Leonardo Gimenes 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/leonardo-g-02a5783b3" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/grf.leoo" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+👨‍💻 Sobre mim
+
+- 🎯 Focado em desenvolvimento **Back-end**
+- 🐍 Estudando **Python** e **HTML/CSS**
+- 📚 Sempre aprendendo algo novo
+- 🚀 Construindo minha trajetória na tecnologia
+
+---
+
+🛠️ Tecnologias que estou aprendendo
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</div>
+
+---
+
+📊 Minhas estatísticas no GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grfleoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grfleoo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
+🐍 Minha contribuição em forma de cobrinha
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grfleoo/grfleoo/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grfleoo/grfleoo/output/github-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/grfleoo/grfleoo/output/github-snake.svg"/>
+  </picture>
+</div>
